@@ -3,3 +3,4 @@ import math
 rayon = 4
 
 #TODO Ajoutez une ligne qui affichera votre nom et prénom à la fin
+x=3
