@@ -1,6 +1,6 @@
 import math
 #TODO Affichez l'aire d'un cercle avec le rayon indiqué
-rayon = 6
+rayon = 7
 
 x=math.pi*rayon**2
 print(x)
